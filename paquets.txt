@@ -1,2 +1,3 @@
+installation local: dpkg - rpm
 #paquets installés
 gitk
