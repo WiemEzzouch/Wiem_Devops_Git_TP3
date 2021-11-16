@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 installation local: dpkg - rpm
+=======
+installation distante: apt - yum
+>>>>>>> paquet_distant
 #paquets installés
 gitk
